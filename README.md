@@ -2,6 +2,7 @@
 目录结构：
 
 └── scrapyspid
+
     ├── douban.csv
     ├── models
     │   ├── es_type.py
@@ -30,3 +31,4 @@
                 └── __init__.cpython-35.pyc
 
 运行：python run.py
+
